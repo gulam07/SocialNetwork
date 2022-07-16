@@ -7,7 +7,7 @@ function Signin() {
         <h2>Instabook</h2>
         <input type="text" placeholder="Email" />
         <input type="text" placeholder="Password" />
-        <button class="btn waves-effect waves-light" type="submit" name="action">SIGN IN</button>
+        <button className="btn waves-effect waves-light" type="submit" name="action">SIGN IN</button>
 
 
       </div>

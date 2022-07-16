@@ -1,3 +1,4 @@
+/*Client/src/App.css*/
 @import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
 
 .brand-logo, h2{
@@ -22,4 +23,10 @@ font-family: 'Grand Hotel', cursive;
 .item{
     width: 30%;
     margin-top: 10px;
+}
+
+.home-card{
+    max-width: 500px;
+    height: max-content;
+    margin: 26px auto;
 }

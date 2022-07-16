@@ -16,7 +16,7 @@ function CreatePost() {
           <input className="file-path validate" type="text" />
         </div>
       </div>
-      <button class="btn waves-effect waves-light blue" type="submit">Submit Post</button>
+      <button className="btn waves-effect waves-light blue" type="submit">Submit Post</button>
 
     </div>
   );
